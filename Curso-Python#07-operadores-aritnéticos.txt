@@ -1,0 +1,18 @@
+Operações Aritméticas
+Precisa de 2 operandos
+	- (+) Adição
+	- (-) Subtração
+	- (*) Multiplicação
+	- (/) Divisão
+
+	- (**) Potência
+	
+	- (//) Divisão Inteira
+Divisão sem resto mesmo tendo os resto	
+	- (%) Resto da divisão
+
+Ordem de Procedência
+	1- Resolve-se primeiro o que estiver entre Parenteses ()
+	2- Depois resolve-se as Potências (**)
+	3- Multiplicação (*), divisão(/), divisão inteira(//) e divisão com resto(%
+	4- Soma e subtração binaria (+)(-)

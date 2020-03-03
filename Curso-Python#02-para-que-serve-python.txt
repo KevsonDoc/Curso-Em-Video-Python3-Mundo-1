@@ -1,0 +1,46 @@
+De onde vem o python?
+	- Guido Van Hossum 1989 ele cria o python.
+	- Na década de 90 foi lança da as primairas linguagens.
+	- 1995 CP4E programação de computadores para todo mundo.
+	- 2001 é criada a Python Software Foundation Á apoiada pela google, microsoft e globo.com.
+	- Já vem pré instalada em linux e Mac OS.
+	- RespBerryPi.
+	- MincraftPy.
+Python é ?
+	- Linguagem de propósito geral.
+	- Fácil e intuitivo
+	- multipplataforma
+	- batteries included
+	- livre ou seja código aberto
+	- organizada
+	- orientada a objetos
+	- muitas bibliotecas
+
+Zen of Python
+	- bonito é melhor que feio
+	- simples é elhor que complexo
+	- compelxo é melhor que complicado
+	- legibilidade conta
+	- erros nunca devem passar silenciosamente
+	- agora é melhor que nunca
+Principais áreas
+	- Inteligência artificial
+	- Biotecnologia
+	- Computação 3D
+Quem usa python?
+	- zope
+	- air canada
+	- bitTorrent
+	- globo.com
+	- google
+	- you tube
+	- NASA
+	- Industrial Light & Magic
+	- AutoDesk
+	- Blander
+	- Guinper
+	- Arduino
+	- Frests on fire
+	- EVE
+	- Civilixation IV
+	- BATTLEFIELD II
