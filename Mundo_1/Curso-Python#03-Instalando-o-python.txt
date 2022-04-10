@@ -1,0 +1,2 @@
+- Instalando o python
+- No caso o python já vem pré instalado no linux

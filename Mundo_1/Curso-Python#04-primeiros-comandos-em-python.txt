@@ -1,0 +1,14 @@
+Primeiros comandos
+-Escreva na tela	
+	print('Hello World')
+-Números e somas de números com print
+	print(7+4)
+-Concatenação
+	print('7'+'4')
+	-para concatenar eu posso usar também a vírgula	
+
+Váriaveis em python
+	-Toda variavel é um objeto
+
+Entrada
+	-input
