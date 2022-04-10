@@ -1,1 +1,0 @@
-- Instalando PyCharm a IDE (Integrade Development Environnment)
